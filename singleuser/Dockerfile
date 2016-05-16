@@ -1,7 +1,7 @@
 # Build as jupyterhub/singleuser
 # Run with the DockerSpawner in JupyterHub
 
-FROM jupyter/scipy-notebook
+FROM jupyter/datascience-notebook
 
 MAINTAINER Project Jupyter <jupyter@googlegroups.com>
 
