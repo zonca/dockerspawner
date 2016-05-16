@@ -1,7 +1,7 @@
 # Build as jupyterhub/systemuser
 # Run with the DockerSpawner in JupyterHub
 
-FROM jupyterhub/singleuser
+FROM zonca/jupyterhub-datascience-singleuser
 
 MAINTAINER Project Jupyter <jupyter@googlegroups.com>
 
